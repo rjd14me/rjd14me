@@ -4,7 +4,7 @@ I am a programmer taking my first steps, trying to further my skills and have so
 ### I'm currently working on:
 ```text
 FlowTask - A Command-Line Interface Task Tracker for roadmap.sh
-MovieCue - A web-based solution that recommends movies based on a random or inputted movie; this is a personal project of mine.
+MovieCue - A web-based solution that recommends movies based on a random or input film.
 ```
 ### I'm currently learning
 ```text
